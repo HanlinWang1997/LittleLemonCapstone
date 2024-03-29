@@ -1,11 +1,14 @@
-/*import logo from './logo.svg';*/
-import './App.css';
-
+import "./App.css";
+import Navbar from "./components/Navbar";
+import Routing from "./components/Routing";
+import Footer from "./components/Footer";
 function App() {
   return (
-    <div className="App">
-      hello world;
-    </div>
+    <>
+      <Navbar />
+      <Routing />
+      <Footer />
+    </>
   );
 }
 
