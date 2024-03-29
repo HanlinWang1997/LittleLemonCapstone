@@ -11,7 +11,7 @@
 ![Preview](./Reservation.png)
 
 ### Menu
-../../../allmenus.jpeg
+
 ![Preview](src/assets/food/allmenus.jpeg)
 
 
