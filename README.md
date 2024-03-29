@@ -10,6 +10,11 @@
 
 ![Preview](./Reservation.png)
 
+### Menu
+../../../allmenus.jpeg
+![Preview](../../../allmenus.jpeg)
+
+
 ## Available Scripts
 
 In the project directory, you can run:
