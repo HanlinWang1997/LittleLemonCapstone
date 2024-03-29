@@ -1,5 +1,14 @@
 # Getting Started with Create React App for Little Lemon Restaurant
 
+## Preview
+
+### Home Page
+
+![Preview](./HomePage.png)
+
+### Reservation Page
+
+![Preview](./Reservation.png)
 
 ## Available Scripts
 
