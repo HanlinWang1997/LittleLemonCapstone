@@ -12,7 +12,7 @@
 
 ### Menu
 ../../../allmenus.jpeg
-![Preview](../../../allmenus.jpeg)
+![Preview](src/assets/food/allmenus.jpeg)
 
 
 ## Available Scripts
